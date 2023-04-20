@@ -11,10 +11,8 @@ Pattern
 */
 
 
-
-
 import java.util.*;
-class p18 {
+class Test {
     public static int factorial(int i)
     {
         if (i == 0)
