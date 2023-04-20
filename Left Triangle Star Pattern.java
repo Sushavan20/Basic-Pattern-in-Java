@@ -12,7 +12,7 @@ Pattern
 
 import java.util.*;
 
-public class p2 {
+public class Test {
     public static void main(String[] args) {
         System.out.print("Enter number of rows: ");
         Scanner sc= new Scanner(System.in);
